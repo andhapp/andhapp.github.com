@@ -1,0 +1,14 @@
+---
+layout: post
+title: Permission marketing
+---
+
+Last couple of months I have not been posting regularly to my site. `.NET` has taken its toll I guess. Yes, this is true. Much to my displeasure, I have been doing some `C#` which now makes me a Jack of all trades having worked with `PHP`, `Java`, `Ruby`, `Rails` and now `.NET`, more feathers in my cap. In this post, I intend to talk about an instance to build permission market.
+
+I am not a marketing guru and neither have I read a lot of marketing books but Seth Godin's Permission Marketing and Purple Cow have given me a really good start. Now days I am thinking about how companies can build permission marketing asset. It is quite a significant asset which can help in cutting the clutter. Well today I got a voucher ensuring £1 off the latest edition of the Economist. There was this guy standing right in front of the bookshop (a perfect place to interrupt potential buyers) and the only thing visible conspicuously was the £1 off offer. There was something in it for me so I took it without hesitation.
+
+The first step of building permission marketing is interruption. Yes, I got interrupted but since there was something in it for me I rather adored the interruption. It seems "The Economist's" marketing department is on the right path to cut through the clutter if there is any although I am sure there is a good selection of people who prefer to read The Economist over anything else anyways.
+
+Now the deal is that I have to return the voucher to the shop keeper and in return I get £1 off. I know I keep stressing on £1, it's not a significant amount but hey every little counts. Do you see any opportunity to build permission? Think, think again, think again. Well the voucher could have a small form on the back requesting name and email and every customer must fill it in to redeem the discount. I know a lot of people can fill in a fake amount but listen if it said - "Fill in the form and you will be e-mailed more vouchers", then may be I will be tempted to give it a try. At the end of the day what can they do with my email address, send me spam. I am not really concerned about it even the free email providers like Yahoo, hotmail and Google are working tremendously hard to keep my inbox spam free so why should I be worried.
+
+In the end I can see there is something there for me so I will more than happy to do it. Once, The Economist has my e-mail address they can think of new ways to expand this permission and convert me from a stranger to a to a friend. I really mean is from an occasional buyer to a regular one. The only downside with this approach is that there is no way to establish if the buyer has used a legitimate name and email address or not. Apart from that a simple addition can help build enormous permission asset.
